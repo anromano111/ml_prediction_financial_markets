@@ -100,4 +100,3 @@ A GPU is recommended. FinBERT scores are cached in `cache/` after the first run,
 
 Built in a team of four at the **ETH Datathon 2026** (organised by the ETH Analytics Club), HRT challenge: **Andreas Spanopoulos · Andrea Romanò · Andreas · Charis**.
 
-Original repository: [AndrewSpano/tren-test-split](https://github.com/AndrewSpano/tren-test-split) (MIT License).
