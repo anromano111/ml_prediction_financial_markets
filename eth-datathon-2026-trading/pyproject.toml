@@ -1,0 +1,24 @@
+[project]
+name = "amea"
+version = "0.1.0"
+description = "ETH Datathon 2026 AMEA project"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "accelerate>=1.13.0",
+    "fastparquet>=2026.3.0",
+    "ipykernel>=7.2.0",
+    "kagglehub",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "optuna>=4.8.0",
+    "pyarrow>=23.0.1",
+    "scikit-learn>=1.8.0",
+    "torch>=2.11.0",
+    "transformers>=5.5.4",
+    "xgboost>=3.2.0",
+]
+
+[tool.uv]
+package = false
